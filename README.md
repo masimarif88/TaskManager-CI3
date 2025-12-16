@@ -92,8 +92,8 @@ Using XAMPP / Laragon / WAMP, start Apache and MySQL
 Open browser: http://localhost/task-manager/index.php/auth/login
 
 6. **Default Login Credentials**
-user1@example.com / password123
-user2@example.com / password123
+user1@test.com / password123
+user2@test.com/ password123
 
 Passwords are stored hashed using bcrypt.
 
